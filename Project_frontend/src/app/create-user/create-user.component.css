@@ -1,0 +1,16 @@
+*{
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+}
+label{
+    color: orange;
+}
+input{
+    width:100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+body{
+    background-color: black
+}
